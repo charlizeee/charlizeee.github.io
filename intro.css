@@ -1,0 +1,70 @@
+/*This is the css file for intro.html */
+body {
+    background-color: #F8EDE3;
+  }
+
+#parent{
+    position: relative;
+}
+
+.information{
+    font-size: 30px;
+    font-family: Georgia, serif;
+    text-align: center;
+    color: white;
+}
+
+.photo{
+    position: absolute;
+    top: 0;
+    border-radius: 50%;
+    height: 35%;
+    top: 5%;
+    margin-left: 42%;
+}
+
+.about{
+    font-size: 75px;
+    font-family: Georgia, serif;
+    text-align: center;
+    color: #E0DDAA;
+    font-weight: bold;
+    
+}
+
+.facts{
+    font-size: 75px;
+    font-family: Georgia, serif;
+    text-align: center;
+    color: #E0DDAA;
+    font-weight: bold;
+    
+}
+
+.answers{
+    font-size: 30px;
+    font-family: Georgia, serif;
+    text-align: center;
+    color: white;
+    
+}
+
+.rectangle {
+    height: 2000px;
+    width: 2400px;
+    background-color: #698269;
+    position: absolute;
+    top: 105%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.rectangle1{
+    height: 3px;
+    width: 1500px;
+    background-color: white;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
